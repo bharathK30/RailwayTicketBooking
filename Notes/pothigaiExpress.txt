@@ -1,0 +1,11 @@
+{
+	"trainNumber" : 12661,
+	"trainName" : "Pothigai Express",
+	"from" : "Chennai Egmore",
+	"to" : "Sengottai",
+	"startDate" :["Mon",25,1,2022,15,45],
+	"endDate":["Wed",26,1,2022,5,30],
+	"stops" : ["Chennai Egmore","Tambaram","ChengalPattu","Villupuram Jn","Virudhachalam Jn","Trichirapalli","Dindugal Jn","Madurai Jn","Virudhunagar Jn","Thiruthangal","Sivakasi","Srivilliputhur","Rajapalayam","SankaranKovil","PambanKovil Shandy","Kadayanallur","tenksai Jn","Sengottai"],
+	"seats":{"Sleeper Class" : 200,"AC 3 tier" : 93,"AC 2 Tier" : 55}
+}
+

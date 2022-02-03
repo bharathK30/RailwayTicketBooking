@@ -1,0 +1,1178 @@
+[{
+  "_id": {
+    "$oid": "61f232db5223e51e5341d015"
+  },
+  "trainName": "new Express",
+  "trainNumber": 11169,
+  "from": "Chennai Egmore",
+  "to": "Thirunelveli",
+  "date": [
+    27,
+    1,
+    2022
+  ],
+  "startTime": [
+    "Thu",
+    27,
+    1,
+    2022,
+    23,
+    45
+  ],
+  "endTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    5,
+    30
+  ],
+  "stops": [
+    "Chennai Egmore",
+    "Tambaram",
+    "ChengalPattu",
+    "Villupuram Jn",
+    "Virudhachalam Jn",
+    "Trichirapalli",
+    "Dindugal Jn",
+    "Madurai Jn",
+    "Virudhunagar Jn",
+    "Thiruthangal",
+    "Sivakasi",
+    "Srivilliputhur",
+    "Rajapalayam",
+    "SankaranKovil",
+    "PambanKovil Shandy",
+    "Kadayanallur",
+    "tenksai Jn",
+    "Thirunelveli"
+  ],
+  "seats": {
+    "_id": {
+      "$oid": "61f232db5223e51e5341d015"
+    },
+    "trainName": "new Express",
+    "trainNumber": 11169,
+    "from": "Chennai Egmore",
+    "to": "Thirunelveli",
+    "date": [
+      27,
+      1,
+      2022
+    ],
+    "startTime": [
+      "Thu",
+      27,
+      1,
+      2022,
+      23,
+      45
+    ],
+    "endTime": [
+      "Fri",
+      28,
+      1,
+      2022,
+      5,
+      30
+    ],
+    "stops": [
+      "Chennai Egmore",
+      "Tambaram",
+      "ChengalPattu",
+      "Villupuram Jn",
+      "Virudhachalam Jn",
+      "Trichirapalli",
+      "Dindugal Jn",
+      "Madurai Jn",
+      "Virudhunagar Jn",
+      "Thiruthangal",
+      "Sivakasi",
+      "Srivilliputhur",
+      "Rajapalayam",
+      "SankaranKovil",
+      "PambanKovil Shandy",
+      "Kadayanallur",
+      "tenksai Jn",
+      "Thirunelveli"
+    ],
+    "seats": {
+      "_id": {
+        "$oid": "61f232db5223e51e5341d015"
+      },
+      "trainName": "new Express",
+      "trainNumber": 11169,
+      "from": "Chennai Egmore",
+      "to": "Thirunelveli",
+      "date": [
+        27,
+        1,
+        2022
+      ],
+      "startTime": [
+        "Thu",
+        27,
+        1,
+        2022,
+        23,
+        45
+      ],
+      "endTime": [
+        "Fri",
+        28,
+        1,
+        2022,
+        5,
+        30
+      ],
+      "stops": [
+        "Chennai Egmore",
+        "Tambaram",
+        "ChengalPattu",
+        "Villupuram Jn",
+        "Virudhachalam Jn",
+        "Trichirapalli",
+        "Dindugal Jn",
+        "Madurai Jn",
+        "Virudhunagar Jn",
+        "Thiruthangal",
+        "Sivakasi",
+        "Srivilliputhur",
+        "Rajapalayam",
+        "SankaranKovil",
+        "PambanKovil Shandy",
+        "Kadayanallur",
+        "tenksai Jn",
+        "Thirunelveli"
+      ],
+      "seats": {
+        "_id": {
+          "$oid": "61f232db5223e51e5341d015"
+        },
+        "trainName": "new Express",
+        "trainNumber": 11169,
+        "from": "Chennai Egmore",
+        "to": "Thirunelveli",
+        "date": [
+          27,
+          1,
+          2022
+        ],
+        "startTime": [
+          "Thu",
+          27,
+          1,
+          2022,
+          23,
+          45
+        ],
+        "endTime": [
+          "Fri",
+          28,
+          1,
+          2022,
+          5,
+          30
+        ],
+        "stops": [
+          "Chennai Egmore",
+          "Tambaram",
+          "ChengalPattu",
+          "Villupuram Jn",
+          "Virudhachalam Jn",
+          "Trichirapalli",
+          "Dindugal Jn",
+          "Madurai Jn",
+          "Virudhunagar Jn",
+          "Thiruthangal",
+          "Sivakasi",
+          "Srivilliputhur",
+          "Rajapalayam",
+          "SankaranKovil",
+          "PambanKovil Shandy",
+          "Kadayanallur",
+          "tenksai Jn",
+          "Thirunelveli"
+        ],
+        "seats": {
+          "_id": {
+            "$oid": "61f232db5223e51e5341d015"
+          },
+          "trainName": "new Express",
+          "trainNumber": 11169,
+          "from": "Chennai Egmore",
+          "to": "Thirunelveli",
+          "date": [
+            27,
+            1,
+            2022
+          ],
+          "startTime": [
+            "Thu",
+            27,
+            1,
+            2022,
+            23,
+            45
+          ],
+          "endTime": [
+            "Fri",
+            28,
+            1,
+            2022,
+            5,
+            30
+          ],
+          "stops": [
+            "Chennai Egmore",
+            "Tambaram",
+            "ChengalPattu",
+            "Villupuram Jn",
+            "Virudhachalam Jn",
+            "Trichirapalli",
+            "Dindugal Jn",
+            "Madurai Jn",
+            "Virudhunagar Jn",
+            "Thiruthangal",
+            "Sivakasi",
+            "Srivilliputhur",
+            "Rajapalayam",
+            "SankaranKovil",
+            "PambanKovil Shandy",
+            "Kadayanallur",
+            "tenksai Jn",
+            "Thirunelveli"
+          ],
+          "seats": {
+            "_id": {
+              "$oid": "61f232db5223e51e5341d015"
+            },
+            "trainName": "new Express",
+            "trainNumber": 11169,
+            "from": "Chennai Egmore",
+            "to": "Thirunelveli",
+            "date": [
+              27,
+              1,
+              2022
+            ],
+            "startTime": [
+              "Thu",
+              27,
+              1,
+              2022,
+              23,
+              45
+            ],
+            "endTime": [
+              "Fri",
+              28,
+              1,
+              2022,
+              5,
+              30
+            ],
+            "stops": [
+              "Chennai Egmore",
+              "Tambaram",
+              "ChengalPattu",
+              "Villupuram Jn",
+              "Virudhachalam Jn",
+              "Trichirapalli",
+              "Dindugal Jn",
+              "Madurai Jn",
+              "Virudhunagar Jn",
+              "Thiruthangal",
+              "Sivakasi",
+              "Srivilliputhur",
+              "Rajapalayam",
+              "SankaranKovil",
+              "PambanKovil Shandy",
+              "Kadayanallur",
+              "tenksai Jn",
+              "Thirunelveli"
+            ],
+            "seats": {
+              "Sleeper Class": 56,
+              "AC 3 tier": 21,
+              "AC 2 Tier": 33
+            },
+            "className": {
+              "$numberDouble": "NaN"
+            }
+          },
+          "className": {
+            "$numberDouble": "NaN"
+          }
+        },
+        "className": {
+          "$numberDouble": "NaN"
+        }
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61f2332a9c8443bf6b1b9526"
+  },
+  "trainName": "new Express",
+  "trainNumber": 11170,
+  "from": "Chennai Egmore",
+  "to": "Thirunelveli",
+  "date": [
+    27,
+    1,
+    2022
+  ],
+  "startTime": [
+    "Thu",
+    27,
+    1,
+    2022,
+    23,
+    45
+  ],
+  "endTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    5,
+    30
+  ],
+  "stops": [
+    "Chennai Egmore",
+    "Tambaram",
+    "ChengalPattu",
+    "Villupuram Jn",
+    "Virudhachalam Jn",
+    "Trichirapalli",
+    "Dindugal Jn",
+    "Madurai Jn",
+    "Virudhunagar Jn",
+    "Thiruthangal",
+    "Sivakasi",
+    "Srivilliputhur",
+    "Rajapalayam",
+    "SankaranKovil",
+    "PambanKovil Shandy",
+    "Kadayanallur",
+    "tenksai Jn",
+    "Thirunelveli"
+  ],
+  "seats": {
+    "Sleeper Class": 50,
+    "AC 3 tier": 21,
+    "AC 2 Tier": 33
+  }
+},{
+  "_id": {
+    "$oid": "61f233daf9c3170ceec6d680"
+  },
+  "trainName": "new Express",
+  "trainNumber": 11171,
+  "from": "Chennai Egmore",
+  "to": "Thirunelveli",
+  "date": [
+    27,
+    1,
+    2022
+  ],
+  "startTime": [
+    "Thu",
+    27,
+    1,
+    2022,
+    23,
+    45
+  ],
+  "endTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    5,
+    30
+  ],
+  "stops": [
+    "Chennai Egmore",
+    "Tambaram",
+    "ChengalPattu",
+    "Villupuram Jn",
+    "Virudhachalam Jn",
+    "Trichirapalli",
+    "Dindugal Jn",
+    "Madurai Jn",
+    "Virudhunagar Jn",
+    "Thiruthangal",
+    "Sivakasi",
+    "Srivilliputhur",
+    "Rajapalayam",
+    "SankaranKovil",
+    "PambanKovil Shandy",
+    "Kadayanallur",
+    "tenksai Jn",
+    "Thirunelveli"
+  ],
+  "seats": {
+    "Sleeper Class": 56,
+    "AC 3 tier": 21,
+    "AC 2 Tier": 33
+  }
+},{
+  "_id": {
+    "$oid": "61f233f5e557b6b5ea7d4873"
+  },
+  "trainName": "new Express",
+  "trainNumber": 11172,
+  "from": "Chennai Egmore",
+  "to": "Thirunelveli",
+  "date": [
+    27,
+    1,
+    2022
+  ],
+  "startTime": [
+    "Thu",
+    27,
+    1,
+    2022,
+    23,
+    45
+  ],
+  "endTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    5,
+    30
+  ],
+  "stops": [
+    "Chennai Egmore",
+    "Tambaram",
+    "ChengalPattu",
+    "Villupuram Jn",
+    "Virudhachalam Jn",
+    "Trichirapalli",
+    "Dindugal Jn",
+    "Madurai Jn",
+    "Virudhunagar Jn",
+    "Thiruthangal",
+    "Sivakasi",
+    "Srivilliputhur",
+    "Rajapalayam",
+    "SankaranKovil",
+    "PambanKovil Shandy",
+    "Kadayanallur",
+    "tenksai Jn",
+    "Thirunelveli"
+  ],
+  "seats": {
+    "Sleeper Class": 44,
+    "AC 3 tier": 21,
+    "AC 2 Tier": 33
+  }
+},{
+  "_id": {
+    "$oid": "61f2742dcbe7b01403e3a51d"
+  },
+  "trainName": "Pothigai Express",
+  "trainNumber": 12661,
+  "from": "Chennai Egmore",
+  "to": "Sengottai",
+  "date": [
+    27,
+    1,
+    2022
+  ],
+  "startTime": [
+    "Thu",
+    27,
+    1,
+    2022,
+    23,
+    45
+  ],
+  "endTime": [
+    "Wed",
+    28,
+    1,
+    2022,
+    5,
+    30
+  ],
+  "stops": [
+    "Chennai Egmore",
+    "Tambaram",
+    "ChengalPattu",
+    "Villupuram Jn",
+    "Virudhachalam Jn",
+    "Trichirapalli",
+    "Dindugal Jn",
+    "Madurai Jn",
+    "Virudhunagar Jn",
+    "Thiruthangal",
+    "Sivakasi",
+    "Srivilliputhur",
+    "Rajapalayam",
+    "SankaranKovil",
+    "PambanKovil Shandy",
+    "Kadayanallur",
+    "tenksai Jn",
+    "Sengottai"
+  ],
+  "seats": {
+    "Sleeper Class": 200,
+    "AC 3 tier": 93,
+    "AC 2 Tier": 55
+  }
+},{
+  "_id": {
+    "$oid": "61f27500cbe7b01403e3a51e"
+  },
+  "trainName": "Nellai Express",
+  "trainNumber": 12632,
+  "from": "Chennai Egmore",
+  "to": "Thirunelveli",
+  "date": [
+    27,
+    1,
+    2022
+  ],
+  "startTime": [
+    "Thu",
+    27,
+    1,
+    2022,
+    20,
+    10
+  ],
+  "endTime": [
+    "Wed",
+    28,
+    1,
+    2022,
+    3,
+    20
+  ],
+  "stops": [
+    "Chennai Egmore",
+    "Mambalam",
+    "Tambaram",
+    "ChengalPattu",
+    "Melmaruvathur",
+    "Thindivanam",
+    "Villupuram Jn",
+    "Virudhachalam Jn",
+    "Trichirapalli",
+    "Dindugal Jn",
+    "Madurai Jn",
+    "Virudhunagar Jn",
+    "Sattur",
+    "KovilPatti",
+    "Thirunelveli"
+  ],
+  "seats": {
+    "Sleeper Class": 321,
+    "AC 3 tier": 49,
+    "AC 2 Tier": 66
+  }
+},{
+  "_id": {
+    "$oid": "61f2755ecbe7b01403e3a51f"
+  },
+  "trainName": "train to be deleted",
+  "trainNumber": 12456,
+  "from": "Chennai Egmore",
+  "to": "Thirunelveli",
+  "date": [
+    27,
+    1,
+    2022
+  ],
+  "startTime": [
+    "Thu",
+    27,
+    1,
+    2022,
+    20,
+    10
+  ],
+  "endTime": [
+    "Wed",
+    28,
+    1,
+    2022,
+    3,
+    20
+  ],
+  "stops": [
+    "Chennai Egmore",
+    "Mambalam",
+    "Tambaram",
+    "ChengalPattu",
+    "Melmaruvathur",
+    "Thindivanam",
+    "Villupuram Jn",
+    "Virudhachalam Jn",
+    "Trichirapalli",
+    "Dindugal Jn",
+    "Madurai Jn",
+    "Virudhunagar Jn",
+    "Sattur",
+    "Kovilpatti",
+    "Thirunelveli"
+  ],
+  "seats": {
+    "Sleeper Class": 321,
+    "AC 3 tier": 49,
+    "AC 2 Tier": 66
+  }
+},{
+  "_id": {
+    "$oid": "61f27682cbe7b01403e3a520"
+  },
+  "trainName": "Cheran Express",
+  "trainNumber": 12673,
+  "from": "Chennai Central",
+  "to": "Coiambatore main Jn",
+  "date": [
+    28,
+    1,
+    2022
+  ],
+  "startTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    5,
+    10
+  ],
+  "endTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    22,
+    20
+  ],
+  "stops": [
+    "Chennai Central",
+    "Arakkonam Jn",
+    "Jolarpet Jn",
+    "Salem Jn",
+    "Erode Jn",
+    "Tiruppur",
+    "Coiambatore North",
+    "Coiambatore main Jn"
+  ],
+  "seats": {
+    "Sleeper Class": 12,
+    "AC 3 tier": 9,
+    "AC 2 Tier": -6
+  }
+},{
+  "_id": {
+    "$oid": "61f27e67d3e6a43747aabc54"
+  },
+  "trainName": "Modified Train",
+  "trainNumber": 12675,
+  "from": "Chennai Egmore",
+  "to": "Thirunelveli",
+  "date": [
+    27,
+    1,
+    2022
+  ],
+  "startTime": [
+    "Thu",
+    27,
+    1,
+    2022,
+    20,
+    10
+  ],
+  "endTime": [
+    "Wed",
+    28,
+    1,
+    2022,
+    3,
+    20
+  ],
+  "stops": [
+    "Chennai Egmore",
+    "Mambalam",
+    "Tambaram",
+    "ChengalPattu",
+    "Melmaruvathur",
+    "Thindivanam",
+    "Villupuram Jn",
+    "Virudhachalam Jn",
+    "Trichirapalli",
+    "Dindugal Jn",
+    "Madurai Jn",
+    "Virudhunagar Jn",
+    "Sattur",
+    "KovilPatti",
+    "Thirunelveli"
+  ],
+  "seats": {
+    "Sleeper Class": 321,
+    "AC 3 tier": 49,
+    "AC 2 Tier": 66
+  }
+},{
+  "_id": {
+    "$oid": "61f27fedd3e6a43747aabc56"
+  },
+  "trainName": "New Train 1",
+  "trainNumber": 12674,
+  "from": "Chennai Central",
+  "to": "Coiambatore main Jn",
+  "date": [
+    28,
+    1,
+    2022
+  ],
+  "startTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    5,
+    10
+  ],
+  "endTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    22,
+    20
+  ],
+  "stops": [
+    "Chennai Central",
+    "Arakkonam Jn",
+    "Jolarpet Jn",
+    "Salem Jn",
+    "Erode Jn",
+    "Tiruppur",
+    "Coiambatore North",
+    "Coiambatore main Jn"
+  ],
+  "seats": {
+    "Sleeper Class": 123,
+    "AC 3 tier": 92,
+    "AC 2 Tier": 4,
+    "djjdbf": {
+      "$numberDouble": "NaN"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61f28048d3e6a43747aabc57"
+  },
+  "trainName": "New Train 1",
+  "trainNumber": 12677,
+  "from": "Chennai Central",
+  "to": "Coiambatore main Jn",
+  "date": [
+    28,
+    1,
+    2022
+  ],
+  "startTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    5,
+    10
+  ],
+  "endTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    22,
+    20
+  ],
+  "stops": [
+    "Chennai Central",
+    "Arakkonam Jn",
+    "Jolarpet Jn",
+    "Salem Jn",
+    "Erode Jn",
+    "Tiruppur",
+    "Coiambatore North",
+    "Coiambatore main Jn"
+  ],
+  "seats": {
+    "Sleeper Class": 123,
+    "AC 3 tier": 92,
+    "AC 2 Tier": 10
+  }
+},{
+  "_id": {
+    "$oid": "61f38fb0a09275500fc8e801"
+  },
+  "trainName": "New Train 2",
+  "trainNumber": 12678,
+  "from": "Chennai Central",
+  "to": "Coiambatore main Jn",
+  "date": [
+    28,
+    1,
+    2022
+  ],
+  "startTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    5,
+    10
+  ],
+  "endTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    22,
+    20
+  ],
+  "stops": [
+    "Chennai Central",
+    "Arakkonam Jn",
+    "Jolarpet Jn",
+    "Salem Jn",
+    "Erode Jn",
+    "Tiruppur",
+    "Coiambatore North",
+    "Coiambatore main Jn"
+  ],
+  "seats": {
+    "Sleeper Class": 123,
+    "AC 3 tier": 92,
+    "AC 2 Tier": 10,
+    "AC 1 Tier": 21
+  }
+},{
+  "_id": {
+    "$oid": "61f39000a09275500fc8e802"
+  },
+  "trainName": "New Train 3",
+  "trainNumber": 12679,
+  "from": "Chennai Central",
+  "to": "Coiambatore main Jn",
+  "date": [
+    28,
+    1,
+    2022
+  ],
+  "startTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    5,
+    10
+  ],
+  "endTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    22,
+    20
+  ],
+  "stops": [
+    "Chennai Central",
+    "Arakkonam Jn",
+    "Jolarpet Jn",
+    "Salem Jn",
+    "Erode Jn",
+    "Tiruppur",
+    "Coiambatore North",
+    "Coiambatore main Jn"
+  ],
+  "seats": {
+    "Sleeper Class": 123,
+    "AC 3 tier": 92,
+    "AC 2 Tier": 10,
+    "AC 1 Tier": 21
+  }
+},{
+  "_id": {
+    "$oid": "61f3903ea09275500fc8e803"
+  },
+  "trainName": "New Train 4",
+  "trainNumber": 12670,
+  "from": "Chennai Central",
+  "to": "Coiambatore main Jn",
+  "date": [
+    28,
+    1,
+    2022
+  ],
+  "startTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    5,
+    10
+  ],
+  "endTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    22,
+    20
+  ],
+  "stops": [
+    "Chennai Central",
+    "Arakkonam Jn",
+    "Jolarpet Jn",
+    "Salem Jn",
+    "Erode Jn",
+    "Tiruppur",
+    "Coiambatore North",
+    "Coiambatore main Jn"
+  ],
+  "seats": {
+    "Sleeper Class": 123,
+    "AC 3 tier": 92,
+    "AC 2 Tier": 10,
+    "AC 1 Tier": 21
+  }
+},{
+  "_id": {
+    "$oid": "61f39393a36a216497c7d8e8"
+  },
+  "trainName": "New Train 6",
+  "trainNumber": 12671,
+  "from": "Chennai Central",
+  "to": "Coiambatore main Jn",
+  "date": [
+    28,
+    1,
+    2022
+  ],
+  "startTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    5,
+    10
+  ],
+  "endTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    22,
+    20
+  ],
+  "stops": [
+    "Chennai Central",
+    "Arakkonam Jn",
+    "Jolarpet Jn",
+    "Salem Jn",
+    "Erode Jn",
+    "Tiruppur",
+    "Coiambatore North",
+    "Coiambatore main Jn"
+  ],
+  "seats": {
+    "Sleeper Class": 123,
+    "AC 3 tier": 92,
+    "AC 2 Tier": 10,
+    "AC 1 Tier": 21
+  }
+},{
+  "_id": {
+    "$oid": "61f3946e497a615592a7f973"
+  },
+  "trainName": "New Train 6",
+  "trainNumber": 12680,
+  "from": "Chennai Central",
+  "to": "Coiambatore main Jn",
+  "date": [
+    28,
+    1,
+    2022
+  ],
+  "startTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    5,
+    10
+  ],
+  "endTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    22,
+    20
+  ],
+  "stops": [
+    "Chennai Central",
+    "Arakkonam Jn",
+    "Jolarpet Jn",
+    "Salem Jn",
+    "Erode Jn",
+    "Tiruppur",
+    "Coiambatore North",
+    "Coiambatore main Jn"
+  ],
+  "seats": {
+    "Sleeper Class": 123,
+    "AC 3 tier": 92,
+    "AC 2 Tier": 10,
+    "AC 1 Tier": 21
+  }
+},{
+  "_id": {
+    "$oid": "61f39496ae91b7479ab567d6"
+  },
+  "trainName": "New Train 6",
+  "trainNumber": 12681,
+  "from": "Chennai Central",
+  "to": "Coiambatore main Jn",
+  "date": [
+    28,
+    1,
+    2022
+  ],
+  "startTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    5,
+    10
+  ],
+  "endTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    22,
+    20
+  ],
+  "stops": [
+    "Chennai Central",
+    "Arakkonam Jn",
+    "Jolarpet Jn",
+    "Salem Jn",
+    "Erode Jn",
+    "Tiruppur",
+    "Coiambatore North",
+    "Coiambatore main Jn"
+  ],
+  "seats": {
+    "Sleeper Class": 123,
+    "AC 3 tier": 92,
+    "AC 2 Tier": 10,
+    "AC 1 Tier": 21
+  }
+},{
+  "_id": {
+    "$oid": "61f39504ae91b7479ab567d7"
+  },
+  "trainName": "New Train 6",
+  "trainNumber": 12682,
+  "from": "Chennai Central",
+  "to": "Coiambatore main Jn",
+  "date": [
+    28,
+    1,
+    2022
+  ],
+  "startTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    5,
+    10
+  ],
+  "endTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    22,
+    20
+  ],
+  "stops": [
+    "Chennai Central",
+    "Arakkonam Jn",
+    "Jolarpet Jn",
+    "Salem Jn",
+    "Erode Jn",
+    "Tiruppur",
+    "Coiambatore North",
+    "Coiambatore main Jn"
+  ],
+  "seats": {
+    "Sleeper Class": 123,
+    "AC 3 tier": 92,
+    "AC 2 Tier": 10,
+    "AC 1 Tier": 21
+  }
+},{
+  "_id": {
+    "$oid": "61f395a1ae91b7479ab567d8"
+  },
+  "trainName": "New Train 6",
+  "trainNumber": 12684,
+  "from": "Chennai Central",
+  "to": "Coiambatore main Jn",
+  "date": [
+    28,
+    1,
+    2022
+  ],
+  "startTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    5,
+    10
+  ],
+  "endTime": [
+    "Fri",
+    28,
+    1,
+    2022,
+    22,
+    20
+  ],
+  "stops": [
+    "Chennai Central",
+    "Arakkonam Jn",
+    "Jolarpet Jn",
+    "Salem Jn",
+    "Erode Jn",
+    "Tiruppur",
+    "Coiambatore North",
+    "Coiambatore main Jn"
+  ],
+  "seats": {
+    "Sleeper Class": 123,
+    "AC 3 tier": 92,
+    "AC 2 Tier": 10,
+    "AC 1 Tier": 21
+  }
+}]

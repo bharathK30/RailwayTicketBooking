@@ -1,0 +1,93 @@
+const jwt = require('jsonwebtoken');
+const Joi = require('joi');
+const config = require('config')
+const {MongoClient} = require('mongodb');
+
+const uri = "mongodb://localhost:27017";
+const client = new MongoClient(uri);
+const db = client.db("RailwayTicketBooking");
+
+async function main(){
+    try{
+        await client.connect();
+    }
+    catch(ex){
+        console.error(ex);
+    }
+}
+main().catch(console.error)
+async function dbCreationAndValidation(){
+    try{
+        const result = await db.command({ listCollections: 1 });
+        const collectionsList = result.cursor.firstBatch;
+        var collectionExist = false;
+        collectionsList.forEach(collection => 
+            {
+            if(collection.name==="Users")
+            {
+            collectionExist = true;
+            }
+         }
+         );
+        if (!collectionExist) {
+            console.log("");
+            const User = await db.createCollection("Users", {
+                validator: {
+                    $jsonSchema:
+                    {
+                        bsonType: "object",
+                        required: ["name", "email", "password"],
+                        properties: {
+                            "name": {
+                                bsonType: String,
+                                description: "must be a string and is required"
+                            },
+                            "email": {
+                                bsonType: String,
+                                description: "must be a string and is required",
+                            },
+                            "password": {
+                                bsonType: String,
+                                description: "must be a string"
+                            },
+                            "isAdmin":{
+                                bsonType : Boolean,
+                            }
+
+                        }
+                    }
+                }
+            })
+        }
+        else{
+            console.log("Collection Already Exists");
+        }
+    }
+    catch(ex){
+        console.error(ex)
+    }
+}
+
+dbCreationAndValidation();
+const Users = db.collection('Users',{strict : true})
+
+
+function generateAuthToken(user) { 
+    const token = jwt.sign({ _id: user._id, isAdmin: user.isAdmin }, config.get('jwtPrivateKey'));
+    return token;
+}
+
+function validateUser(user) {
+    const schema = Joi.object({
+      name: Joi.string().min(5).max(50).required(),
+      email: Joi.string().min(5).max(255).required().email(),
+      password: Joi.string().min(5).max(255).required(),
+      isAdmin:Joi.boolean()
+    }) ;
+  
+    return schema.validate(user);
+}
+  
+exports.Users = Users;
+exports.validate = validateUser;
+exports.generateAuthToken = generateAuthToken;
