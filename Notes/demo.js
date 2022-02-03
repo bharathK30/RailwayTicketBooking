@@ -14,3 +14,5 @@ const date = '2022-02-20 14:25'
 console.log(moment(date).toLocaleString());
 
 console.log('ggggg'.match(/Bharath/i));
+
+//Adding new changes to the code
